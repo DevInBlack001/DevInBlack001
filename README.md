@@ -73,16 +73,18 @@ Software should be open and available to the masses. Users should be able to tak
 
 Arch/Omarchy and Hyprland tools I've built on the side:
 
-- [tui-file-manager](https://github.com/DevInBlack001/tui-file-manager): Keyboard-driven TUI file manager for Arch/Omarchy, with transfers via filetransferd.
-- [arch-transfer-manager](https://github.com/DevInBlack001/arch-transfer-manager): Crash-independent file transfer queue with an Omarchy Quickshell panel.
-- [omarchy-system-health](https://github.com/DevInBlack001/omarchy-system-health): Task Manager style system monitor for the Omarchy Quickshell bar (CPU, memory, battery, disk SMART health).
-- [omarchy-wazuh-view](https://github.com/DevInBlack001/omarchy-wazuh-view): Local Wazuh agent status panel for the Omarchy Quickshell bar, read-only, no manager or API required.
-- [Omarchy-Wazuh-Server-View](https://github.com/DevInBlack001/Omarchy-Wazuh-Server-View): Server-wide Wazuh view (all agents, drill-down, threat hunting, MITRE ATT&CK mapping) for the Omarchy Quickshell bar.
-- [omarchy-clipboard-quickview](https://github.com/DevInBlack001/omarchy-clipboard-quickview): Persistent bar icon for Omarchy that opens clipboard history on click.
-- [lofi-launcher-terminal](https://github.com/DevInBlack001/lofi-launcher-terminal): Plays mood-based lofi music in the background whenever a terminal or TTY session is open.
-- [hyprland-battery-info-display](https://github.com/DevInBlack001/hyprland-battery-info-display): A battery status panel for Hyprland, built in Rust on top of upower.
-- [hyprland-gpu-display-switcher](https://github.com/DevInBlack001/hyprland-gpu-display-switcher): GPU display switcher for Hyprland.
-- [Hyprland-Network-Test](https://github.com/DevInBlack001/Hyprland-Network-Test): Network testing utility for Hyprland.
+<p align="center">
+  <a href="https://github.com/DevInBlack001/tui-file-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=tui-file-manager&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="tui-file-manager" /></a>
+  <a href="https://github.com/DevInBlack001/arch-transfer-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=arch-transfer-manager&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="arch-transfer-manager" /></a>
+  <a href="https://github.com/DevInBlack001/omarchy-system-health"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=omarchy-system-health&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="omarchy-system-health" /></a>
+  <a href="https://github.com/DevInBlack001/omarchy-wazuh-view"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=omarchy-wazuh-view&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="omarchy-wazuh-view" /></a>
+  <a href="https://github.com/DevInBlack001/Omarchy-Wazuh-Server-View"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=Omarchy-Wazuh-Server-View&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="Omarchy-Wazuh-Server-View" /></a>
+  <a href="https://github.com/DevInBlack001/omarchy-clipboard-quickview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=omarchy-clipboard-quickview&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="omarchy-clipboard-quickview" /></a>
+  <a href="https://github.com/DevInBlack001/lofi-launcher-terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=lofi-launcher-terminal&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="lofi-launcher-terminal" /></a>
+  <a href="https://github.com/DevInBlack001/hyprland-battery-info-display"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=hyprland-battery-info-display&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="hyprland-battery-info-display" /></a>
+  <a href="https://github.com/DevInBlack001/hyprland-gpu-display-switcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=hyprland-gpu-display-switcher&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="hyprland-gpu-display-switcher" /></a>
+  <a href="https://github.com/DevInBlack001/Hyprland-Network-Test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevInBlack001&repo=Hyprland-Network-Test&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="Hyprland-Network-Test" /></a>
+</p>
 
 ### 📊 GitHub Stats
 
