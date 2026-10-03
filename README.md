@@ -87,18 +87,12 @@ Arch/Omarchy and Hyprland tools I've built on the side:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevInBlack001&show_icons=true&theme=github-dark-dimmed&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevInBlack001&layout=compact&theme=github-dark-dimmed&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevInBlack001&show_icons=true&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevInBlack001&layout=compact&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevInBlack001&theme=github-dark-dimmed&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub streak" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevInBlack001&theme=react-dark&bg_color=00000000&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=DevInBlack001&theme=github_dark&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub streak" />
 </p>
 
 ### 🌱 Currently Learning
@@ -127,7 +121,7 @@ If you're building something cool within my field/interests, I'm down to work wi
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DevInBlack001&icon=0&color=2" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=DevInBlack001&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor count" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/DevInBlack001">DevInBlack001</a></i></p>
