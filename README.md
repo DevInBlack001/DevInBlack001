@@ -69,20 +69,20 @@ Software should be open and available to the masses. Users should be able to tak
   <img src="https://img.shields.io/badge/Server%20Configuration-000000?style=for-the-badge&logoColor=00FF41" alt="Server Configuration and Management" />
 </p>
 
-### 🧩 Side Projects
+### Side Projects
 
 Arch/Omarchy and Hyprland tools I've built on the side:
 
-- 🗂️ [tui-file-manager](https://github.com/DevInBlack001/tui-file-manager): Keyboard-driven TUI file manager for Arch/Omarchy, with transfers via filetransferd.
-- 📦 [arch-transfer-manager](https://github.com/DevInBlack001/arch-transfer-manager): Crash-independent file transfer queue with an Omarchy Quickshell panel.
-- 📈 [omarchy-system-health](https://github.com/DevInBlack001/omarchy-system-health): Task Manager style system monitor for the Omarchy Quickshell bar (CPU, memory, battery, disk SMART health).
-- 🛡️ [omarchy-wazuh-view](https://github.com/DevInBlack001/omarchy-wazuh-view): Local Wazuh agent status panel for the Omarchy Quickshell bar, read-only, no manager or API required.
-- 🖥️ [Omarchy-Wazuh-Server-View](https://github.com/DevInBlack001/Omarchy-Wazuh-Server-View): Server-wide Wazuh view (all agents, drill-down, threat hunting, MITRE ATT&CK mapping) for the Omarchy Quickshell bar.
-- 📋 [omarchy-clipboard-quickview](https://github.com/DevInBlack001/omarchy-clipboard-quickview): Persistent bar icon for Omarchy that opens clipboard history on click.
-- 🎵 [lofi-launcher-terminal](https://github.com/DevInBlack001/lofi-launcher-terminal): Plays mood-based lofi music in the background whenever a terminal or TTY session is open.
-- 🔋 [hyprland-battery-info-display](https://github.com/DevInBlack001/hyprland-battery-info-display): A battery status panel for Hyprland, built in Rust on top of upower.
-- 🖥️ [hyprland-gpu-display-switcher](https://github.com/DevInBlack001/hyprland-gpu-display-switcher): GPU display switcher for Hyprland.
-- 🌐 [Hyprland-Network-Test](https://github.com/DevInBlack001/Hyprland-Network-Test): Network testing utility for Hyprland.
+- [tui-file-manager](https://github.com/DevInBlack001/tui-file-manager): Keyboard-driven TUI file manager for Arch/Omarchy, with transfers via filetransferd.
+- [arch-transfer-manager](https://github.com/DevInBlack001/arch-transfer-manager): Crash-independent file transfer queue with an Omarchy Quickshell panel.
+- [omarchy-system-health](https://github.com/DevInBlack001/omarchy-system-health): Task Manager style system monitor for the Omarchy Quickshell bar (CPU, memory, battery, disk SMART health).
+- [omarchy-wazuh-view](https://github.com/DevInBlack001/omarchy-wazuh-view): Local Wazuh agent status panel for the Omarchy Quickshell bar, read-only, no manager or API required.
+- [Omarchy-Wazuh-Server-View](https://github.com/DevInBlack001/Omarchy-Wazuh-Server-View): Server-wide Wazuh view (all agents, drill-down, threat hunting, MITRE ATT&CK mapping) for the Omarchy Quickshell bar.
+- [omarchy-clipboard-quickview](https://github.com/DevInBlack001/omarchy-clipboard-quickview): Persistent bar icon for Omarchy that opens clipboard history on click.
+- [lofi-launcher-terminal](https://github.com/DevInBlack001/lofi-launcher-terminal): Plays mood-based lofi music in the background whenever a terminal or TTY session is open.
+- [hyprland-battery-info-display](https://github.com/DevInBlack001/hyprland-battery-info-display): A battery status panel for Hyprland, built in Rust on top of upower.
+- [hyprland-gpu-display-switcher](https://github.com/DevInBlack001/hyprland-gpu-display-switcher): GPU display switcher for Hyprland.
+- [Hyprland-Network-Test](https://github.com/DevInBlack001/Hyprland-Network-Test): Network testing utility for Hyprland.
 
 ### 📊 GitHub Stats
 
@@ -99,22 +99,22 @@ Arch/Omarchy and Hyprland tools I've built on the side:
 
 Kernel-level performance tuning, and automated threat response patterns.
 
-### 🤝 Let's Collaborate!
+### Let's Collaborate!
 
 I'm actively looking for:
 
-- 🔗 Networking with cybersecurity researchers and systems engineers.
-- 💼 Opportunities to apply my skills in network security and infrastructure management.
-- 🛠️ Collaborators on open-source Linux security projects or network automation tools.
-- 🌍 Open source contributions in the security and systems architecture ecosystem.
+- Networking with cybersecurity researchers and systems engineers.
+- Opportunities to apply my skills in network security and infrastructure management.
+- Collaborators on open-source Linux security projects or network automation tools.
+- Open source contributions in the security and systems architecture ecosystem.
 
-### ⚡ Fun Facts
+### Fun Facts
 
-- 📊 I love practical implementation over just knowing the theory stuff.
-- 🚀 I love me a good challenge.
-- 🏀 I play basketball every now and then.
-- 📺 I love watching documentaries, movies, cartoons, and anime.
-- 🕮 I also love researching stuff like history, mythology, and science (like cosmology and quantum physics).
+- I love practical implementation over just knowing the theory stuff.
+- I love me a good challenge.
+- I play basketball every now and then.
+- I love watching documentaries, movies, cartoons, and anime.
+- I also love researching stuff like history, mythology, and science (like cosmology and quantum physics).
 
 If you're building something cool within my field/interests, I'm down to work with ya!
 
